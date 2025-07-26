@@ -181,7 +181,16 @@
       "icon": "Box",
       "description": "B站内容",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1753517345266",
+          "title": "入门01-07",
+          "href": "https://www.bilibili.com/video/BV128QiYSEyt/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
