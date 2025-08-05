@@ -89,9 +89,9 @@
           "items": [
             {
               "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
+              "title": "风险计算器",
+              "href": "https://ror-calculator.vercel.app/",
+              "description": "交易风险计算器",
               "icon": "/assets/images/logos/chatgpt.png",
               "enabled": true
             },
