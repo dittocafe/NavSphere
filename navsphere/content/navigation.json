@@ -238,6 +238,14 @@
               "description": "",
               "icon": "/assets/img_1750831362985.png",
               "enabled": true
+            },
+            {
+              "id": "1754396772224",
+              "title": "市场周期（12-18）",
+              "href": "https://www.bilibili.com/video/BV1rTXGY3EmJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
