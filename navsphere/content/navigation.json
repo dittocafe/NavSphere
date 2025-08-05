@@ -12,6 +12,14 @@
           "description": "老爷子的原版课程网站，推荐付费学习",
           "icon": "/assets/images/logos/analytics.ico",
           "enabled": true
+        },
+        {
+          "id": "1754397645409",
+          "title": "NavSphere作者的网站",
+          "href": "https://dh.leti.ltd/ ",
+          "description": "原创开源不易，支持！",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
