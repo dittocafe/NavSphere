@@ -255,14 +255,6 @@
               "description": "人称：学委。",
               "icon": "/assets/img_1735265752690.png",
               "enabled": true
-            },
-            {
-              "id": "1751433573273",
-              "title": "市场周期（12-18）",
-              "href": "https://www.bilibili.com/video/BV1rTXGY3EmJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
-              "description": "",
-              "icon": "/assets/img_1751433579053.png",
-              "enabled": true
             }
           ]
         },
