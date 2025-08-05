@@ -233,49 +233,17 @@
           "items": [
             {
               "id": "1750831228317",
-              "title": "入门（01-07）",
-              "href": "https://www.bilibili.com/video/BV128QiYSEyt/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
+              "title": "lucide",
+              "href": "https://lucide.dev/icons/house",
               "description": "Beautiful &\nconsistent icons",
               "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            },
-            {
-              "id": "1754396256420",
-              "title": "市场周期（12-18）",
-              "href": "https://www.bilibili.com/video/BV1rTXGY3EmJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1754396284103",
-              "title": "支撑位、阻力位以及基本形态（19-29）",
-              "href": "https://www.bilibili.com/video/BV1NxXLYdEHt/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1754396323381",
-              "title": "如何进行交易的先决条件（30-36）",
-              "href": "https://www.bilibili.com/video/BV1yQQdYTE8T/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
-              "description": "",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1754396363135",
-              "title": "如何进行价格走势交易（37-52）",
-              "href": "https://www.bilibili.com/video/BV1aAXFYxEyg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=895e314740622ceae02daf8361edcfa7",
-              "description": "",
-              "icon": "",
               "enabled": true
             }
           ]
         },
         {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
+          "title": "方方土PriceAction",
           "icon": "Files",
           "description": "",
           "enabled": true,
