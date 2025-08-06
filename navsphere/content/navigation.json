@@ -500,10 +500,10 @@
             },
             {
               "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
+              "title": "OpenBB官网",
+              "href": "https://openbb.co/",
               "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.png",
+              "icon": "",
               "enabled": true
             },
             {
