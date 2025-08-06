@@ -526,10 +526,10 @@
           "items": [
             {
               "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
+              "title": "5-Year Data for S&P 500 & NASDAQ 100",
+              "href": "https://www.kaggle.com/datasets/salaheddineelkhirani/5-year-data-for-s-and-p-500-and-nasdaq-100",
               "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
+              "icon": "",
               "enabled": true
             }
           ],
