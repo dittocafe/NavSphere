@@ -492,10 +492,10 @@
           "items": [
             {
               "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
+              "title": "OpenBB",
+              "href": "https://github.com/OpenBB-finance/OpenBB",
               "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
+              "icon": "",
               "enabled": true
             },
             {
