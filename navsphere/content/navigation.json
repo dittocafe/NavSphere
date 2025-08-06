@@ -508,10 +508,10 @@
             },
             {
               "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.png",
+              "title": "FinGenius",
+              "href": "https://github.com/HuaYaoAI/FinGenius",
+              "description": "A股开源工具",
+              "icon": "",
               "enabled": true
             }
           ],
