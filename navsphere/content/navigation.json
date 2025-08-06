@@ -531,6 +531,14 @@
               "description": "在线UI设计工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1754439977667",
+              "title": "NRD to CSV ",
+              "href": "https://github.com/eugeneilyin/nrdtocsv",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
