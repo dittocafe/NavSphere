@@ -343,10 +343,10 @@
           "items": [
             {
               "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
+              "title": "ListenHub.ai",
+              "href": "https://listenhub.ai/",
+              "description": "处理语音AI，可以将英文播客生成中文对话。",
+              "icon": "",
               "enabled": true
             },
             {
