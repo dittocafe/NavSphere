@@ -120,6 +120,14 @@
               "description": "雅虎美国财经",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1754873550123",
+              "title": "雅虎香港财经",
+              "href": "https://hk.finance.yahoo.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
