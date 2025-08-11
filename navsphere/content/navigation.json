@@ -128,6 +128,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1754873903005",
+              "title": "雪球",
+              "href": "https://xueqiu.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
