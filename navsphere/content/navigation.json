@@ -115,10 +115,10 @@
           "items": [
             {
               "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
+              "title": "雅虎财经",
+              "href": "https://finance.yahoo.com/",
+              "description": "雅虎美国财经",
+              "icon": "",
               "enabled": true
             }
           ]
