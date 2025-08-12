@@ -54,6 +54,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1755004943508",
+              "title": "英为财情-财经日历",
+              "href": "https://cn.investing.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
