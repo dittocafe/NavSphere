@@ -745,9 +745,9 @@
         },
         {
           "id": "8_2",
-          "title": "LOGO设计",
+          "title": "订机票",
           "href": "#LOGO设计",
-          "icon": "",
+          "icon": "Book",
           "description": "",
           "items": [
             {
@@ -782,7 +782,8 @@
               "icon": "/assets/images/logos/InstantLogoSearch.png",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         },
         {
           "id": "8_3",
