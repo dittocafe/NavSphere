@@ -752,10 +752,10 @@
           "items": [
             {
               "id": "8_2_1",
-              "title": "Iconsfeed",
-              "href": "http://www.iconsfeed.com/",
-              "description": "iOS icons gallery",
-              "icon": "/assets/images/logos/iconsfeed.png",
+              "title": "Google 机票",
+              "href": "https://www.google.com/travel/flights",
+              "description": "",
+              "icon": "",
               "enabled": true
             },
             {
