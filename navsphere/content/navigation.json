@@ -639,9 +639,9 @@
       "subCategories": [
         {
           "id": "8_1",
-          "title": "图标素材",
+          "title": "订机票",
           "href": "#图标素材",
-          "icon": "",
+          "icon": "Book",
           "description": "",
           "items": [
             {
@@ -740,7 +740,8 @@
               "icon": "/assets/images/logos/simplelineicons.png",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         },
         {
           "id": "8_2",
