@@ -760,10 +760,10 @@
             },
             {
               "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.png",
+              "title": "Annas-Archive",
+              "href": "https://annas-archive.org",
+              "description": "电子书",
+              "icon": "",
               "enabled": true
             },
             {
