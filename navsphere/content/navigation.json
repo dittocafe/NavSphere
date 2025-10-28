@@ -789,7 +789,7 @@
           "id": "8_3",
           "title": "平面素材",
           "href": "#平面素材",
-          "icon": "",
+          "icon": "Book",
           "description": "",
           "items": [
             {
@@ -808,7 +808,8 @@
               "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         }
       ],
       "description": ""
