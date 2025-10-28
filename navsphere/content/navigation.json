@@ -168,23 +168,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "方方土PriceAction",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735265532154",
-              "title": "方方土PriceAction",
-              "href": "https://www.youtube.com/@LouiePriceAction",
-              "description": "人称：学委。",
-              "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
           "title": "B站中文配音2018版本",
           "icon": "BookOpen",
@@ -352,6 +335,23 @@
               "href": "https://www.anthropic.com/claude-code",
               "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
               "icon": "/assets/img_1752662771107.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
+          "title": "方方土PriceAction",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1735265532154",
+              "title": "方方土PriceAction",
+              "href": "https://www.youtube.com/@LouiePriceAction",
+              "description": "人称：学委。",
+              "icon": "/assets/img_1735265752690.png",
               "enabled": true
             }
           ]
