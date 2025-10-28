@@ -794,10 +794,10 @@
           "items": [
             {
               "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
+              "title": "AI炒股",
+              "href": "https://rockalpha.rockflow.ai/",
               "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
+              "icon": "",
               "enabled": true
             },
             {
