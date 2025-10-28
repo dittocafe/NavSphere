@@ -635,7 +635,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "1761613370720",
+          "title": "AI炒股",
+          "href": "https://rockalpha.rockflow.ai/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
