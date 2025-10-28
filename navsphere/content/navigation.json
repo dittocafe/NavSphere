@@ -338,23 +338,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "方方土PriceAction",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735265532154",
-              "title": "方方土PriceAction",
-              "href": "https://www.youtube.com/@LouiePriceAction",
-              "description": "人称：学委。",
-              "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
