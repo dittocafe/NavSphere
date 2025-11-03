@@ -609,10 +609,10 @@
           "items": [
             {
               "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
+              "title": "immortalwrt",
+              "href": "https://firmware-selector.immortalwrt.org/",
               "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.png",
+              "icon": "",
               "enabled": true
             }
           ],
