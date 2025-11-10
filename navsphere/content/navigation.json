@@ -843,6 +843,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779644812",
+              "title": "LibGen",
+              "href": "https://libgen.li/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
