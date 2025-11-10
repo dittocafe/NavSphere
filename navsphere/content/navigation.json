@@ -918,6 +918,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "fa9f1643-6ca3-464a-a742-7b4eb80e7b7c",
+          "title": "英文阅读 & 专业资源 ",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
