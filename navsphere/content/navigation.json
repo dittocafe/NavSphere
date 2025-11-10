@@ -1014,6 +1014,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780266040",
+              "title": "世界数字图书馆 （WDL)",
+              "href": "https://wdl.org",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
