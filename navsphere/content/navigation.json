@@ -973,6 +973,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780155705",
+              "title": "BookBub",
+              "href": "https://bookbub.com",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
