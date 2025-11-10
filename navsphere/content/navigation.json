@@ -925,7 +925,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762780004416",
+              "title": "PDF 驱动器",
+              "href": "https://pdfdrive.com",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
