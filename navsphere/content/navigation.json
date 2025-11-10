@@ -868,7 +868,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762779752104",
+              "title": " 鸠摩搜书",
+              "href": "https://www.jiumodiary.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
