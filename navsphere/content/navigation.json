@@ -790,6 +790,14 @@
               "description": "免费矢量素材",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762777576458",
+              "title": "大佬持仓",
+              "href": "https://www.dataroma.com/",
+              "description": "与超级投资者同行",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
