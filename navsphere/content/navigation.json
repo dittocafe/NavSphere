@@ -567,10 +567,10 @@
           "items": [
             {
               "id": "6_1",
-              "title": "Adobe After Effects CC",
-              "href": "https://www.adobe.com/cn/products/aftereffects/",
+              "title": "AI prompt 库",
+              "href": "https://tools.eq4c.com/",
               "description": "电影般的视觉效果和动态图形。",
-              "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
+              "icon": "",
               "enabled": true
             },
             {
