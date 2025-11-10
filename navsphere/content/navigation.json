@@ -827,6 +827,14 @@
               "description": "到该链接更新访问地址",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779582743",
+              "title": "Anna’s Archive",
+              "href": "https://annas-archive.org/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
