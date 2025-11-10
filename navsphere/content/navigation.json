@@ -900,6 +900,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779856862",
+              "title": "盘搜 / 烟海",
+              "href": "https://pansou.icloudnative.io/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
