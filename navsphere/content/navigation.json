@@ -892,6 +892,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779828294",
+              "title": "文渊阁",
+              "href": "https://ctext.org/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
