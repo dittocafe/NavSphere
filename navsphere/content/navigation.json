@@ -851,6 +851,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779681038",
+              "title": "Open Library",
+              "href": "https://openlibrary.org/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
