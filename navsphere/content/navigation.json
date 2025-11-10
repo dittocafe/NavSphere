@@ -949,6 +949,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780081801",
+              "title": "VDOCPUB",
+              "href": "https://vdoc.pub",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
