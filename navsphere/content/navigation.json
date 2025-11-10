@@ -998,6 +998,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780221280",
+              "title": "Liber3",
+              "href": "https://liber3.eth.limo",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
