@@ -812,7 +812,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e354ca56-3a70-4020-912e-bb0798d1a0f8",
+          "title": "全球通用",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
