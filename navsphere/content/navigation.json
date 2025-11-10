@@ -884,6 +884,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779800313",
+              "title": "雅书 / 书籍知识库",
+              "href": "https://yabook.org/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
