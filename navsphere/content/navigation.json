@@ -941,6 +941,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780052389",
+              "title": "ManyBooks",
+              "href": "https://manybooks.net",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
