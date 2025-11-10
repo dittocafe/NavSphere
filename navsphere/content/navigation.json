@@ -876,6 +876,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779767192",
+              "title": "SoBooks",
+              "href": "https://sobooks.cc/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
