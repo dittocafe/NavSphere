@@ -983,6 +983,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3c50907e-1487-4d68-9971-ac0a17c6184d",
+          "title": "加分推荐",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
