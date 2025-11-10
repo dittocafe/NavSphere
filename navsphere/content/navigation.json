@@ -933,6 +933,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762780026164",
+              "title": "epubBooks",
+              "href": "https://epubbooks.com",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
