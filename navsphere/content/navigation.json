@@ -908,6 +908,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762779905888",
+              "title": "烟海中国",
+              "href": "http://www.yanhainav.cn/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
