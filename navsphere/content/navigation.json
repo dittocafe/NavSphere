@@ -804,6 +804,15 @@
         }
       ],
       "description": ""
+    },
+    {
+      "id": "1762779357622",
+      "title": "书籍资源",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
