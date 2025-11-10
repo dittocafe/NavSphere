@@ -861,6 +861,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "efe446d2-859e-4631-b436-7696a8db6188",
+          "title": "中文",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
