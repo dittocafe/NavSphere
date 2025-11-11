@@ -160,6 +160,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762878831927",
+              "title": "Google Finance beta",
+              "href": "https://www.google.com/finance/beta/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
