@@ -371,14 +371,6 @@
               "description": "视频号助手，视频号创作站点",
               "icon": "/assets/img_1736912962033.png",
               "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "韭研公社",
-              "href": "https://www.jiuyangongshe.com/",
-              "description": "",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
