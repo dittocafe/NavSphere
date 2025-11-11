@@ -152,6 +152,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762878802552",
+              "title": "韭研公社",
+              "href": "https://www.jiuyangongshe.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
