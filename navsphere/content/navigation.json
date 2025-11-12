@@ -262,6 +262,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1762953125051",
+              "title": "价格行为交易学习",
+              "href": "https://priceactions.forecho.com/",
+              "description": "价格行为交易\nAl Brooks 的《Price Action Fundamentals》系列视频总结\n学习专业的价格行为交易技术",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
