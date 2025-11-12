@@ -90,10 +90,10 @@
             },
             {
               "id": "9_2",
-              "title": "Monte Carlo Method",
-              "href": "https://howtotrade.com/trading-tools/monte-carlo-simulation/",
+              "title": "5分钟计时器",
+              "href": "https://pacountdown.forecho.com/",
               "description": "",
-              "icon": "/assets/images/logos/claude.png",
+              "icon": "",
               "enabled": true
             }
           ]
