@@ -28,6 +28,14 @@
           "description": "原创开源不易，支持！",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1762953318750",
+          "title": "Brooks Trading Course",
+          "href": "https://www.youtube.com/@BrooksTradingCourse",
+          "description": "AL Brooks 官方油管频道",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
