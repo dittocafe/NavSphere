@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1762953318750",
+          "title": "Brooks Trading Course",
+          "href": "https://www.youtube.com/@BrooksTradingCourse",
+          "description": "AL Brooks 官方油管频道",
+          "icon": "",
+          "enabled": true
+        },
+        {
           "id": "1761613681254",
           "title": "方方土的价格行为学",
           "href": "https://www.youtube.com/@LouiePriceAction",
@@ -26,14 +34,6 @@
           "title": "NavSphere作者的网站",
           "href": "https://dh.leti.ltd/ ",
           "description": "原创开源不易，支持！",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "1762953318750",
-          "title": "Brooks Trading Course",
-          "href": "https://www.youtube.com/@BrooksTradingCourse",
-          "description": "AL Brooks 官方油管频道",
           "icon": "",
           "enabled": true
         }
