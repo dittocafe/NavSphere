@@ -154,6 +154,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "364620b5-49ab-48af-9b31-28ed380f4bfb",
+          "title": "产品跟踪",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
