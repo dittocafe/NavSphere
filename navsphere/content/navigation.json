@@ -161,7 +161,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1763080939983",
+              "title": "Pimco",
+              "href": "https://www.pimco.com/hk/zh/investments/gis/income-fund/e-sgd-hedged-income",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
