@@ -490,10 +490,10 @@
             },
             {
               "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.ico",
+              "title": "Markdown to Picture",
+              "href": "https://madopic.thus.chat/",
+              "description": "",
+              "icon": "/assets/img_1763358820400.png",
               "enabled": true
             },
             {
