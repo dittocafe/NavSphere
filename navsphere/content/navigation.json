@@ -474,10 +474,10 @@
             },
             {
               "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
+              "title": "ideogram",
+              "href": "https://ideogram.ai/",
+              "description": "在线海报",
+              "icon": "/assets/img_1763369061118.png",
               "enabled": true
             },
             {
