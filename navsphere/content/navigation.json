@@ -511,6 +511,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1763354566694",
+              "title": "白宫网站风格图片",
+              "href": "https://notwhitehousse.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
