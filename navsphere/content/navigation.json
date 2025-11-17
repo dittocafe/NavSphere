@@ -396,6 +396,14 @@
               "description": "视频号助手，视频号创作站点",
               "icon": "/assets/img_1736912962033.png",
               "enabled": true
+            },
+            {
+              "id": "1763379895248",
+              "title": "TinyWow",
+              "href": "https://tinywow.com/",
+              "description": "",
+              "icon": "/assets/img_1763380006112.png",
+              "enabled": true
             }
           ]
         },
