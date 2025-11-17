@@ -482,10 +482,10 @@
             },
             {
               "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
+              "title": "免费文字转图片",
+              "href": "https://oneimgai.com/",
+              "description": "",
+              "icon": "/assets/img_1763358908574.png",
               "enabled": true
             },
             {
