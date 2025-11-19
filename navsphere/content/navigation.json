@@ -645,6 +645,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1763512361767",
+              "title": "GPTs Prompt",
+              "href": "https://github.com/linexjlin/GPTs",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
