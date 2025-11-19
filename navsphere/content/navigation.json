@@ -36,6 +36,14 @@
           "description": "原创开源不易，支持！",
           "icon": "/assets/img_1763103827096.png",
           "enabled": true
+        },
+        {
+          "id": "1763514319830",
+          "title": "freemediaheckyeah",
+          "href": "https://fmhy.net/",
+          "description": "The largest collection of free stuff on the internet!",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
