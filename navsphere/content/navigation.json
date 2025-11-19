@@ -561,6 +561,14 @@
               "description": "A股开源工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1763511027535",
+              "title": "PolyMarket",
+              "href": "https://polymarket.com/",
+              "description": "新的语言机",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
