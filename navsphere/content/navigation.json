@@ -569,6 +569,14 @@
               "description": "新的语言机",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1763511103448",
+              "title": "Polymarkt精选",
+              "href": "https://poly123.xyz/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
