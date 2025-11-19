@@ -640,10 +640,10 @@
             },
             {
               "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.png",
+              "title": "Banana nano Prompt",
+              "href": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+              "description": "",
+              "icon": "",
               "enabled": true
             }
           ],
