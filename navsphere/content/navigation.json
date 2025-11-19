@@ -86,6 +86,14 @@
               "description": "",
               "icon": "/assets/img_1763259579513.png",
               "enabled": true
+            },
+            {
+              "id": "1763561330018",
+              "title": "财报日历",
+              "href": "https://cn.investing.com/earnings-calendar/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
