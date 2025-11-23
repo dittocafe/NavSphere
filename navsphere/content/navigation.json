@@ -841,7 +841,16 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1763858489371",
+              "title": "Muset",
+              "href": "https://muset.ai/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": ""
