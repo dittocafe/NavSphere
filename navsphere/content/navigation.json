@@ -619,6 +619,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1763857761647",
+              "title": "Trade Like an Insider",
+              "href": "https://www.quiverquant.com/",
+              "description": "美股内部人持仓",
+              "icon": "/assets/img_1763857823667.png",
+              "enabled": true
             }
           ],
           "enabled": true
