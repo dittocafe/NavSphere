@@ -834,6 +834,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "ddf796e6-3850-46dc-adc3-c01b1b3ac171",
+          "title": "写作创意",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": ""
