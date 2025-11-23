@@ -168,6 +168,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1763858215744",
+              "title": "Removepaywall",
+              "href": "https://removepaywall.com",
+              "description": "阅读付费内容",
+              "icon": "/assets/img_1763858247143.png",
+              "enabled": true
             }
           ]
         },
