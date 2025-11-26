@@ -966,6 +966,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1764165458600",
+              "title": "书籍知识库",
+              "href": "https://www.zhishikoo.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
