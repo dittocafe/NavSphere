@@ -1089,7 +1089,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764166057849",
+              "title": "a16z.news : It's time to build ",
+              "href": "https://www.a16z.news/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
