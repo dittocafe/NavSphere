@@ -1082,6 +1082,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cd86ff6c-a399-4805-be01-866559cd9baa",
+          "title": "独立网站",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
