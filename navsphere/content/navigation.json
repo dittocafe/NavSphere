@@ -1097,6 +1097,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1764313856540",
+              "title": "Goodbooks",
+              "href": "https://goodbooks.io/",
+              "description": "",
+              "icon": "/assets/img_1764313889308.png",
+              "enabled": true
             }
           ]
         }
