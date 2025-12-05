@@ -1039,6 +1039,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1764927503911",
+              "title": "杂志",
+              "href": "https://archive.org/details/magazine_rack",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
