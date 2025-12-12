@@ -703,6 +703,14 @@
               "description": "色彩搭配",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1765548628610",
+              "title": "IP检查",
+              "href": "https://www.ping0.cc/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
