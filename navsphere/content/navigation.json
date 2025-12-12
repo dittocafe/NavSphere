@@ -1113,6 +1113,14 @@
               "description": "",
               "icon": "/assets/img_1764313889308.png",
               "enabled": true
+            },
+            {
+              "id": "1765527878650",
+              "title": "电子书",
+              "href": "https://github.com/jbiaojerry/ebook-treasure-chest?tab=readme-ov-file",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
