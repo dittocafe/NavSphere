@@ -1129,6 +1129,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1765597639694",
+              "title": "经济学人/纽约客",
+              "href": "https://github.com/hehonghui/awesome-english-ebooks",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
