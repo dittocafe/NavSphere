@@ -551,6 +551,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1765698660911",
+              "title": "StackEdit 在线Markdown",
+              "href": "https://stackedit.cn/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
