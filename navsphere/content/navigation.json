@@ -729,7 +729,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1765794908869",
+              "title": "Google Skills",
+              "href": "https://www.skills.google/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
