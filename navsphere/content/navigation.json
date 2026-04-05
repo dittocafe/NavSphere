@@ -465,10 +465,10 @@
           "items": [
             {
               "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
+              "title": "巴菲特致股东信知识库",
+              "href": "https://buffett-letters-eir.pages.dev/",
+              "description": "巴菲特致股东信",
+              "icon": "",
               "enabled": true
             },
             {
