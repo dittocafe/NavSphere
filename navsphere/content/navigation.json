@@ -102,6 +102,14 @@
               "description": "股票筛选工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1776213250481",
+              "title": "Barchart",
+              "href": "https://www.barchart.com/",
+              "description": "市场数据，期权数据",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
