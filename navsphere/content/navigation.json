@@ -94,6 +94,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1776213203523",
+              "title": "Finviz",
+              "href": "https://finviz.com/",
+              "description": "股票筛选工具",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
