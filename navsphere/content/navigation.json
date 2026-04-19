@@ -659,6 +659,14 @@
               "description": "美股内部人持仓",
               "icon": "/assets/img_1763857823667.png",
               "enabled": true
+            },
+            {
+              "id": "1776562314632",
+              "title": "全球冲突",
+              "href": "https://quanqiuchongtu.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
