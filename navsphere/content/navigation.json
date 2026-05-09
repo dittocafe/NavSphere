@@ -675,6 +675,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1778312431880",
+              "title": "美股编年史",
+              "href": "https://historyofmarket.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
