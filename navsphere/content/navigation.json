@@ -779,6 +779,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "21730fcc-32bf-4795-aeba-bfc2c34d6d2c",
+          "title": "语言类",
+          "icon": "BookOpen",
+          "description": "翻译，播客，视频，语言互通",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
