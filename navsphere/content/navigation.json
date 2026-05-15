@@ -786,7 +786,16 @@
           "icon": "BookOpen",
           "description": "翻译，播客，视频，语言互通",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1778828897335",
+              "title": " Violin",
+              "href": "https://www.violin-ai.com/",
+              "description": "将视频自动翻译成你想要的语言",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
