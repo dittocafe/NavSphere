@@ -921,6 +921,14 @@
               "description": "与超级投资者同行",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1779280977187",
+              "title": "山西小西天",
+              "href": "https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ],
           "enabled": true
