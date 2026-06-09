@@ -211,6 +211,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8033b7c8-bb16-4bb1-8f0e-493538746d9d",
+          "title": "Trader网站",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
