@@ -218,7 +218,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1781003887490",
+              "title": "Traderfeed",
+              "href": "https://traderfeed.blogspot.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
